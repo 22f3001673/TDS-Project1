@@ -14,4 +14,4 @@ Using Python and the GitHub API, it has collected user profiles for individuals 
 - `repositories.csv`: Includes metadata for each repository, such as the repository's full name, creation date, star count, language, and license type.
 
 ## Key Insights and Recommendation
-This analysis of Mumbai developers shows a high prevalence of web development projects, suggesting a demand for skills in web-related languages and frameworks. Therefore, developers interested in gaining traction within the Mumbai tech community might benefit from focusing on JavaScript, Python, and popular frameworks like React or Django.
+This analysis of Mumbai developers shows a high prevalence of web development projects, suggesting a demand for skills in web-related languages. Therefore, developers interested in gaining traction within the Mumbai tech community might benefit from focusing on JavaScript, Python, and HTML. Also, Java is more popular as compared to C/C++.
