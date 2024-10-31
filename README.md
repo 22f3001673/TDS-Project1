@@ -1,5 +1,5 @@
-# TDS-Project1
-IITM TDS Project 1
+# TDS-Project1-GitHub API
+IITM TDS Project 1 (GitHub API)
 
 # Mumbai GitHub Users and Repositories Data
 - This dataset was scraped using the GitHub API to collect data on users in Mumbai with over 50 followers and their repositories.
