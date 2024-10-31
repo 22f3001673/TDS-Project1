@@ -2,7 +2,7 @@
 IITM TDS Project 1 (GitHub API)
 
 # Mumbai GitHub Users and Repositories Data
-- This dataset was scraped using the GitHub API to collect data on users in Mumbai with over 50 followers and their repositories. The data anaysis was done on cloud-based Google Colab Python code with Pandas library for data analysis and manipulation.
+- This dataset was scraped using the GitHub API to collect data on users in Mumbai with over 50 followers and their repositories. The data analysis was done on cloud-based Google Colab Python code with Pandas library for data analysis and manipulation.
 - Analysis revealed that a significant portion of Mumbai-based developers focus on web technologies, with JavaScript and Python as the most common languages. Hireable developers prefer to make themselves more accessible by sharing their email addresses.
 - Developers should prioritize building skills in JavaScript and Python to align with the demand in the Mumbai tech community. They should keep their bios concise which tends to attract more followers. Providing an email address is good for better hireability.
 
